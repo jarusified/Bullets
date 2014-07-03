@@ -1,0 +1,40 @@
+
+blah.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mountain1
+  rotate: false
+  xy: 1, 67
+  size: 486, 109
+  orig: 486, 109
+  offset: 0, 0
+  index: -1
+mountain2
+  rotate: false
+  xy: 489, 70
+  size: 488, 106
+  orig: 488, 106
+  offset: 0, 0
+  index: -1
+airplane
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+clould
+  rotate: false
+  xy: 67, 25
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 979, 144
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
